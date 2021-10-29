@@ -1,0 +1,20 @@
+{
+  "name": "Node-restfull31",
+  "version": "1.0.0",
+  "description": "proyecto node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desarrollotest4/Node-restfull31.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desarrollotest4/Node-restfull31/issues"
+  },
+  "homepage": "https://github.com/desarrollotest4/Node-restfull31#readme"
+}
