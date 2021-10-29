@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/desarrollotest4/Node-restfull31/issues"
   },
-  "homepage": "https://github.com/desarrollotest4/Node-restfull31#readme"
+  "homepage": "https://github.com/desarrollotest4/Node-restfull31#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
 }
